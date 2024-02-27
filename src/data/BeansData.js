@@ -1,3 +1,4 @@
+/*eslint-disable*/
 const BeansData = [
   {
     id: 'B1',
@@ -9,9 +10,9 @@ const BeansData = [
     ingredients: 'Africa',
     special_ingredient: 'From Africa',
     prices: [
-      {size: '250gm', price: '5.50', currency: '$'},
-      {size: '500gm', price: '10.50', currency: '$'},
-      {size: '1Kg', price: '18.50', currency: '$'},
+      {size: 'S', price: '5.50', currency: '$'},
+      {size: 'M', price: '10.50', currency: '$'},
+      {size: 'L', price: '18.50', currency: '$'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -29,9 +30,9 @@ const BeansData = [
     ingredients: 'Africa',
     special_ingredient: 'From Africa',
     prices: [
-      {size: '250gm', price: '5.50', currency: '$'},
-      {size: '500gm', price: '10.50', currency: '$'},
-      {size: '1Kg', price: '18.50', currency: '$'},
+      {size: 'S', price: '5.50', currency: '$'},
+      {size: 'M', price: '10.50', currency: '$'},
+      {size: 'L', price: '18.50', currency: '$'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -49,9 +50,9 @@ const BeansData = [
     ingredients: 'Malaysia',
     special_ingredient: 'From Malaysia',
     prices: [
-      {size: '250gm', price: '5.50', currency: '$'},
-      {size: '500gm', price: '10.50', currency: '$'},
-      {size: '1Kg', price: '18.50', currency: '$'},
+      {size: 'S', price: '5.50', currency: '$'},
+      {size: 'M', price: '10.50', currency: '$'},
+      {size: 'L', price: '18.50', currency: '$'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -69,9 +70,9 @@ const BeansData = [
     ingredients: 'Malaysia',
     special_ingredient: 'From Malaysia',
     prices: [
-      {size: '250gm', price: '5.50', currency: '$'},
-      {size: '500gm', price: '10.50', currency: '$'},
-      {size: '1Kg', price: '18.50', currency: '$'},
+      {size: 'S', price: '5.50', currency: '$'},
+      {size: 'M', price: '10.50', currency: '$'},
+      {size: 'L', price: '18.50', currency: '$'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',

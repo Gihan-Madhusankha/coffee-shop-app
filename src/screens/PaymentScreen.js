@@ -46,7 +46,8 @@ const PaymentScreen = ({ navigation, route }) => {
     calculateCartPrice();
     setTimeout(() => {
       setShowAnimation(false);
-      navigation.navigate('History');
+      // navigation.navigate('History');
+      navigation.navigate('Home');
     }, 2000);
   };
 
